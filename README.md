@@ -44,7 +44,7 @@ sudo apt install libxml2-utils bc
 | `check_idrac6_fans.sh`     | Checks fan RPMs and redundancy               |
 | `check_idrac6_voltages.sh` | Monitors power supply and board voltages     |
 | `check_idrac6_power.sh`    | Reports real-time and average power usage    |
-| `check_idrac6_temps.sh`    | Checks ambient system temperatures           |
+| `check_idrac6_amb_temp.sh` | Checks ambient system temperatures           |
 | `check_idrac6_intrusion.sh`| Detects chassis intrusion status             |
 
 ---
