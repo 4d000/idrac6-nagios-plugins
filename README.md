@@ -77,6 +77,10 @@ $USER1$ = /usr/lib/nagios/plugins
 $USER2$ = <idrac_username>
 $USER3$ = <idrac_password>
 ```
+### 🔐 Recommended: Use a Read-Only iDRAC User
+
+For security, it's best to create a **dedicated read-only user** in iDRAC specifically for monitoring purposes. This user should have only the minimum privileges required to read hardware sensor data.
+
 
 ### Define the Command
 
