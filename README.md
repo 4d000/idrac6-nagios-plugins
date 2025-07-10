@@ -18,7 +18,7 @@ These scripts utilize `curl` and `xmllint` to query the iDRAC6 XML API over HTTP
 
 Ensure the following dependencies are installed:
 
-- Bash
+- `Bash`
 - `curl`
 - `xmllint` (from `libxml2-utils`)
 - `bc`
