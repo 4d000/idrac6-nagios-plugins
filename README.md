@@ -51,6 +51,14 @@ sudo apt install libxml2-utils bc
 
 ## 🧪 Usage
 
+### Execution Permissions
+
+Make sure the plugin scripts have **execution permissions** before running them. You can set the executable flag with:
+
+```bash
+chmod 0755 check_idrac6_fans.sh
+```
+
 Basic usage:
 
 ```
